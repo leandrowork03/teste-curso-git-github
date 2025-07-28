@@ -1,47 +1,55 @@
-# 🧪 Teste de Git e GitHub
+# Teste Curso Git e GitHub
 
-Este repositório foi criado como parte dos estudos do curso de **Git e GitHub**, com o objetivo de praticar os principais comandos de versionamento, fluxo de trabalho com branches, commits e push/pull no GitHub.
+Este repositório foi criado como parte dos estudos e práticas do curso de Git e GitHub.  
+Aqui você encontra experimentos, comandos e exemplos utilizados para aprender versionamento de código na prática.
 
----
+## 🚀 Tecnologias
 
-## 📚 Sobre o projeto
+- Git
+- GitHub
+- [Adicione outras tecnologias ou ferramentas, se houver]
 
-Durante o curso, foram testados conceitos essenciais como:
+## 📚 Objetivos do Projeto
 
-- Criação de repositório local e remoto
-- Controle de versões com Git
-- Comandos `git init`, `add`, `commit`, `push`, `pull`, `clone`, etc.
-- Gerenciamento de arquivos com `.gitignore`
-- Criação e merge de branches
-- Resolução de conflitos
-- Edição e visualização de histórico (`log`, `diff`, `status`)
+- Aprender comandos básicos e avançados do Git
+- Praticar o uso do GitHub para hospedagem de código e colaboração
+- Realizar experimentos de versionamento, branches, merges e pull requests
 
-Este projeto **não contém código de aplicação**, mas sim arquivos de teste para treinar o uso do Git e integração com o GitHub.
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-- ✅ Git (CLI)
-- ✅ GitHub
-- ✅ VS Code (como editor)
-- ✅ Terminal (Git Bash ou shell padrão)
-
----
-
-## 🎯 Objetivos práticos
-
-- Familiaridade com o fluxo de versionamento
-- Aprender a clonar, editar, e publicar repositórios
-- Aplicar boas práticas com mensagens de commit
-- Criar histórico limpo e reprodutível de modificações
-
----
-
-## 💡 Como testar
-
-Você pode clonar este repositório para fins de estudo:
+## ⚡️ Comandos Úteis
 
 ```bash
+# Clonar o repositório
 git clone https://github.com/leandrowork03/teste-curso-git-github.git
-cd teste-curso-git-github
+
+# Criar uma nova branch
+git checkout -b nome-da-branch
+
+# Adicionar alterações
+git add .
+
+# Fazer commit das alterações
+git commit -m "Descrição do commit"
+
+# Enviar alterações para o repositório remoto
+git push origin nome-da-branch
+```
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas!
+
+1. Faça um fork
+2. Crie uma branch: `git checkout -b minha-feature`
+3. Faça o commit: `git commit -m 'feat: Minha feature'`
+4. Push na branch: `git push origin minha-feature`
+5. Abra um Pull Request
+
+## 📄 Licença
+
+Este projeto é apenas para fins educacionais.
+
+## 👤 Contato
+
+- GitHub: [leandrowork03](https://github.com/leandrowork03)
+- E-mail: leandrotrabalho03@gmail.com
+- LinkedIn: [Leandro Santos](https://www.linkedin.com/in/leandro-santos-front-end/)
